@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/ge45tab/Downloads/Projects/VR/2. Beer Game/2. Beer-Game/Assets/Scenes/BreweryScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

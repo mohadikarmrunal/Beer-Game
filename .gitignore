@@ -43,6 +43,10 @@ ExportedObj/
 *.opendb
 *.VC.db
 
+# Large size files to ignore 
+libil2cpp.dbg.so
+libil2cpp.sym.so
+
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
